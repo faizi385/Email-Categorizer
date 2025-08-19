@@ -12,7 +12,6 @@ This project reads your Gmail inbox, automatically categorizes emails, generates
    ```bash
    python main.py
    ```
-./venv/bin/python3.13 main.py
 ## What it does
 - Reads your inbox
 - Categorizes emails using ML
