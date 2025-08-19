@@ -40,5 +40,3 @@ docker run -d \
   --name email-automation \
   -v $(pwd)/credentials:/app/credentials \
   email-categories
-
-  ./venv/bin/python3.12 main.py
