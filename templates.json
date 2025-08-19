@@ -1,0 +1,26 @@
+{
+  "Inquiry": {
+    "subject": "Re: Thank you for your inquiry",
+    "body": "Thank you for reaching out. We\u2019ve received your inquiry and will get back to you shortly with the information you requested. If you have any additional details to share, feel free to reply to this email."
+  },
+  "Marketing": {
+    "subject": "Re: Appreciate your marketing offer",
+    "body": "Thank you for your marketing proposal. We\u2019ll review it internally and reach out if it aligns with our current goals."
+  },
+  "Support": {
+    "subject": "Re: Support request received",
+    "body": "Thank you for contacting support. We've received your message and are working to resolve your issue. We\u2019ll get back to you shortly with an update."
+  },
+  "Billing": {
+    "subject": "Re: Billing inquiry noted",
+    "body": "Thank you for contacting us regarding billing. Our finance team will review your query and respond as soon as possible."
+  },
+  "Spam": {
+    "subject": "Re: Message received",
+    "body": "Your message has been received. If this was sent in error or was not intended for us, please disregard."
+  },
+  "Personal": {
+    "subject": "Re: Thank you for your message",
+    "body": "Thanks for reaching out. I\u2019ll respond to your message personally soon."
+  }
+}
